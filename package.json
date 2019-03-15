@@ -1,0 +1,24 @@
+{
+  "name": "passport.js",
+  "version": "1.0.0",
+  "description": "https://github.com/sarthakprajapati/passport.js.git",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthakprajapati/passport.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarthakprajapati/passport.js/issues"
+  },
+  "homepage": "https://github.com/sarthakprajapati/passport.js#readme"
+}
